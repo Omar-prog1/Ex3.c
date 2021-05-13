@@ -9,7 +9,7 @@
     printf ( "\n\n ingrese la fruta que selecciono");
     scanf ( "%f", &Fresa);
     printf ( "\n\n ingrese el peso de la futa seleccionada");
-    scanf ( "%f", &CincoKilos);
+    scanf ( "%f", &Cincokilos);
     precio= Cincokilos * $13;
     printf ( "\n\n el presio total es %f", precio);
     return 0;
